@@ -16,7 +16,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 client = Groq(api_key=GROQ_API_KEY)
-
+GROQ_API_KEY = "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"
 def load_resume_data():
     with open('my resume data.txt', 'r', encoding='utf-8') as file:
         return file.read()
