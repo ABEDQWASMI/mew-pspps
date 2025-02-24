@@ -1,0 +1,77 @@
+
+ABED KWASMI
+CTO & Co-Founder
++90-552-676-25-94 Abedalrahmanqwasmi@gmail.com https://www.linkedin.com/in/abed-kwasmi/
+istanbul/turkey
+SUMMARY
+I am a Dynamic Full-Stack Developer with a solid background in front-end technologies and a passion for designing robust software
+solutions. Experienced in leading projects, enhancing web interfaces, and optimizing performance. Excels in a fast-paced
+environment, leveraging modern technologies to solve complex problems. As CTO and Co-founder of LeapTheLimit, an Al
+technology company, I focus on innovating and transforming business operations in Jerusalem and beyond through Al-powered
+solutions.
+EXPERIENCE
+CTO & Co-founder
+Jerusalem
+LeapTheLimit 01/2024
+Spearheaded the development of Al-powered tools to automate tasks, enhance decision-making, and boost efficiency across
+various industries
+Played a pivotal role in strategic planning, technology direction, and business development to expand our services in the Middle
+East and beyond
+Led cross-functional teams in designing, developing, and implementing innovative Al solutions, ensuring the highest quality of
+service and customer satisfaction
+Implemented performance optimization techniques
+Fostered partnerships and collaborations to explore new opportunities for business growth and technological advancements
+Lead Intern Front-End Developer
+Istanbul (remote)
+Plotperty Istanbul 04/2023 - 06/2023
+Developed and maintained the company's website utilizing WordPress, including adding new 14 features and fixing bugs
+Created a construction calculator that is used by over 1,000 users per month
+Submitted multiple ideas that have been implemented by the company, resulting in improved efficiency by 15% and customer
+satisfaction by 9%
+Developed user interfaces with modern JavaScript frameworks, HTML5, SQL and CSS3
+Web Developer
+Jerusalem
+Freelancer 01/2021 - 05/2022
+Provided security maintenance and patching on website interface to maintain viability after launch
+Maintained optimal front-end performance on both desktop and mobile platforms
+Engaged with clients to optimize site issues which helped me to increase productivity by 30%
+EDUCATION
+Bachelor of Arts Computer Engineering - GPA 3.1
+istanbul
+Istanbul Technical Istinye University (ISU) 01/2021 - 01/2023
+Istanbul Technical Istinye University (ISU)
+Honors: Dean's, 2023
+Community Engagement Award - GHIS
+Istiny university honer student 2023
+SKILLS
+Adobe Illustrator, Business Development, Css, Css3, Docker, Drupal, Front-end, Git, Google Analytics, Google Suite, GraphQL,
+Html, Html5, Javascript, Jira, Joomla, Microsoft Office, Microsoft office suite, Nextjs, Php, Python, Seo, Shopify, Sql,
+APIs and Integrations, Leadership and Team Management, Strategic Planning, Typescript, Wordpress, Machine Learning / AI,
+Cloud Computing & DevOps, Node.js, Express.js, GitLab, AWS Certified Solutions Architect
+LANGUAGES
+Arabic Fluent English Fluent Hebrew Proficient
+Turkish Proficient
+
+VOLUNTEER EXPERIENCE
+
+Jerusalem Forest Project Team Leader
+jeruslaem
+2017 - 2019 (2 years)
+Planted over 300 trees in effort to stop the deforestation of an ecologically significant area.
+English Teacher
+El Beironi Junior High School
+2017 - 2018 (1 year)
+Taught spoken English to youth in a local village.
+
+Licenses & Certifications
+Artificial Intelligence Use Cases and Applications - Amazon Web Services (AWS)
+Developing Machine Learning Solutions - Amazon Web Services (AWS)
+Responsible Artificial Intelligence Practices - Amazon Web Services (AWS)
+Fundamentals of Machine Learning and Artificial Intelligence - Amazon Web
+Services (AWS)
+FIND ME ONLINE
+Linkedin
+https://www.linkedin.com/in/abedkwasmi/
+Github
+https://github.com/ABEDQWASMI
+

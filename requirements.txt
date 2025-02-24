@@ -1,0 +1,6 @@
+flask==2.0.1
+werkzeug==2.0.3
+groq
+python-dotenv
+reportlab==4.0.4
+textwrap
