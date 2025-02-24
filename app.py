@@ -14,7 +14,7 @@ from reportlab.lib.units import inch
 from datetime import datetime
 
 app = Flask(__name__)
-GROQ_API_KEY = "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"
+
 client = Groq(api_key=GROQ_API_KEY)
 
 def load_resume_data():
